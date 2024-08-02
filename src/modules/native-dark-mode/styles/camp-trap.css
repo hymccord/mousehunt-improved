@@ -266,11 +266,12 @@
 }
 
 .mh-dark .trapSelectorView__codexFilterButton {
+  color: var(--d-text);
   background-color: var(--d-bg);
 }
 
 .mh-dark .trapSelectorView__codexFilterButton.active {
-  border-color: var(--d-border);
+  background-color: var(--d-alt);
 }
 
 .mh-dark .trapSelectorView__codexList .campPage-trap-itemBrowser-item-image::after {
