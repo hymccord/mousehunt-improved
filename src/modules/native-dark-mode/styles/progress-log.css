@@ -6,6 +6,14 @@
   border-color: var(--d-border);
 }
 
+.mh-dark #overlayPopup.hunting_summary .miceContainer:hover
+.mh-dark #overlayPopup.hunting_summary .environmentContainer:hover
+.mh-dark #overlayPopup.hunting_summary .baitContainer:hover
+.mh-dark #overlayPopup.hunting_summary .lootContainer:hover
+{
+  background-color: var(--d);
+}
+
 .mh-dark #overlayPopup.hunting_summary .label {
   color: var(--d-text);
   background-color: var(--d);

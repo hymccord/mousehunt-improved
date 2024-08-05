@@ -35,6 +35,10 @@
   box-shadow: 1px 1px 1px var(--d-border);
 }
 
+.mh-dark .campPage-tabs-tabContent[data-tab="journal"] {
+  background-color: var(--d-bg);
+}
+
 .mh-dark .campPage-tabs-tabContent.active[data-tab="daily"],
 .mh-dark .campPage-tabs-tabContent-larryTip-container,
 .mh-dark .campPage-quests-container {

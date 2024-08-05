@@ -1,0 +1,42 @@
+/* .mh-dark .mousehuntTooltip {
+  color: var(--d-text);
+  background-color: var(--d);
+  border-color: var(--d-border);
+  box-shadow: 2px 3px 4px var(--d);
+}
+
+.mh-dark .mousehuntTooltip .mousehuntTooltip-arrow {
+  border-color: transparent transparent transparent var(--d-border);
+}
+
+.mousehuntTooltip.top .mousehuntTooltip-arrow {
+  border-color:var(--d) transparent transparent transparent
+}
+
+.mousehuntTooltip.top .mousehuntTooltip-arrow:after {
+  border-color:var(--d-border) transparent transparent transparent;
+}
+
+.mousehuntTooltip.bottom .mousehuntTooltip-arrow {
+  border-color:transparent transparent var(--d) transparent
+}
+
+.mousehuntTooltip.bottom .mousehuntTooltip-arrow:after {
+  border-color:transparent transparent var(--d-border) transparent;
+}
+
+.mousehuntTooltip.left .mousehuntTooltip-arrow {
+  border-color:transparent transparent transparent var(--d)
+}
+
+.mousehuntTooltip.left .mousehuntTooltip-arrow:after {
+  border-color:transparent transparent transparent var(--d-border)
+}
+
+.mousehuntTooltip.right .mousehuntTooltip-arrow {
+  border-color:transparent var(--d) transparent transparent
+}
+
+.mousehuntTooltip.right .mousehuntTooltip-arrow:after {
+  border-color:transparent var(--d-border) transparent transparent
+} */
